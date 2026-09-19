@@ -1,0 +1,106 @@
+# ==========================================
+# Unity generated folders/files
+# ==========================================
+
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+
+# Memory captures
+[Mm]emoryCaptures/
+
+# Recordings
+[Rr]ecordings/
+
+# Asset Store tools
+Assets/AssetStoreTools*
+
+# ==========================================
+# IDE / Editor files
+# ==========================================
+
+.vs/
+.vscode/
+.idea/
+
+*.csproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.tmp
+
+# ==========================================
+# OS generated files
+# ==========================================
+
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ==========================================
+# Unity crash / diagnostics
+# ==========================================
+
+sysinfo.txt
+
+# ==========================================
+# Build outputs
+# ==========================================
+
+*.apk
+*.aab
+*.unitypackage
+*.app
+*.exe
+*.appimage
+
+# ==========================================
+# Gradle / Android generated files
+# ==========================================
+
+.gradle/
+.gradle-cache/
+*.keystore
+*.jks
+
+# ==========================================
+# Visual Studio / Rider
+# ==========================================
+
+.vsconfig
+
+# ==========================================
+# User-specific Unity files
+# ==========================================
+
+*.pidb.meta
+*.pdb
+*.mdb
+
+# ==========================================
+# Generated Vuforia / temporary files
+# ==========================================
+
+*.log
+
+# Unity generated build backup
+Build_BackUpThisFolder_ButDontShipItWithYourGame/
+
+# Unity build output
+Build/
+Builds/
+[Bb]uild/
+[Bb]uilds/
+
+# Unity / Android temporary generated files
+.utmp/
+
+# Large Vuforia package
+Packages/com.ptc.vuforia.engine-11.4.4.tgz
