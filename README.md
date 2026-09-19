@@ -89,20 +89,3 @@ LaptopOverlayAR/
 3. Open the main Unity scene under `Assets/Scenes` or the existing demo scene provided by the XR starter assets.
 4. Connect an AR-capable device and build/run for Android or iOS.
 5. If using the Vuforia image target workflow, make sure the target database and image asset are included in the build.
-
-## Usage
-
-The app appears to be designed around a guided AR demonstration:
-
-1. Scan or detect the configured AR surface or image target.
-2. Place an object into the scene.
-3. Use the built-in AR interaction prompts to move, scale, and rotate models.
-4. Explore laptop hardware components in 3D over the tracked target.
-
-## Notes
-
-This repository looks like a Unity-generated AR template customized for a laptop hardware visualization scenario. It is not a generic library or package; it is a project with scene assets, XR configuration, and Unity editor assets targeted at interactive mobile AR demos.
-
-## License
-
-No explicit license file was found in the repository root. If you plan to publish or distribute this project, add an appropriate license before doing so.
